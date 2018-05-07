@@ -23,7 +23,7 @@
                              <div class="form-group">
                                 <table>
                                     <tr class="fixed-top"><label>Adjunte Certificado</label></tr>
-                                <tr><input type="file" disabled="false" class="form-control" id="fileID" name="fileName" placeholder="Escoja un certificado.."></tr>
+                                    <tr><input type="file" class="form-control" id="fileID" name="fileName" placeholder="Escoja un certificado.."></tr>
                                 </table>                                                                
                             </div> 
                             <div class="form-group">
